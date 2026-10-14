@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkan_admin=self.webpackChunkan_admin||[]).push([[5832],{58235:(function(c,u,n){n.r(u),n.d(u,{default:function(){return t}});var a=n(86070),s="sjDE";function t(){return(0,a.jsx)("div",{_nk:"".concat(s,"11"),children:"\u4EFB\u52A1\u7BA1\u7406"})}})}]);
